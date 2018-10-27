@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "460121216538",
+    "firebase_url": "https://helperglove.firebaseio.com",
+    "project_id": "helperglove",
+    "storage_bucket": "helperglove.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460121216538:android:cee26d791e837348",
+        "android_client_info": {
+          "package_name": "com.example.android.helperglove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460121216538-udba524lo7748i520ue9plojmgnpa0g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.helperglove",
+            "certificate_hash": "c06bccf39ad17785a79dfa6d4ce1075f46bdfd42"
+          }
+        },
+        {
+          "client_id": "460121216538-vmbutlr2pkuvgekd2l6r8paqassvoosd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ASC3yNzXsYV8Rzl4X276oelJLRc1YxE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460121216538-vmbutlr2pkuvgekd2l6r8paqassvoosd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
