@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-            mDataBase.addListenerForSingleValueEvent(new ValueEventListener() {
+            mDataBase.addValueEventListener(new ValueEventListener() {
                 @Override
                 public void onDataChange(DataSnapshot dataSnapshot) {
 
@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
             });
 
 
-        m2DataBase.addListenerForSingleValueEvent(new ValueEventListener() {
+        m2DataBase.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
 
